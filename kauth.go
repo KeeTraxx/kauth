@@ -1,4 +1,4 @@
-package echomultiauth
+package kauth
 
 import (
 	"encoding/gob"
